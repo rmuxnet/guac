@@ -1,0 +1,123 @@
+name: "📱 AxionOS Maintainership"
+description: "Apply to become an official maintainer for AxionOS."
+title: "[Maintainer Application] Device Name - Your Name"
+labels: ["maintainer application"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # 📢 AxionOS Maintainer Application
+        Thank you for your interest in becoming a maintainer for AxionOS!  
+        Please carefully fill out the details below.
+
+        ✅ **Requirements:**  
+        - You must have prior experience in ROM building.  
+        - Your device sources (Device Tree, Kernel, Vendor) **must be publicly available**.  
+        - You should be active in the community and provide regular updates.  
+
+        ℹ️ **Note:** Incomplete applications may be rejected.
+
+  - type: input
+    id: name
+    attributes:
+      label: "🛠 Your Name"
+      description: "Enter your full name or alias."
+      placeholder: "John Doe"
+    validations:
+      required: true
+
+  - type: input
+    id: device
+    attributes:
+      label: "📱 Device Name & Codename"
+      description: "Provide the official device name and codename."
+      placeholder: "Google Pixel 9 Pro XL (komodo)"
+    validations:
+      required: true
+
+  - type: input
+    id: telegram
+    attributes:
+      label: "📲 Telegram Username"
+      description: "Your Telegram handle for communication."
+      placeholder: "@yourusername"
+    validations:
+      required: true
+
+  - type: input
+    id: github
+    attributes:
+      label: "🔗 GitHub Profile"
+      description: "Link to your GitHub profile."
+      placeholder: "https://github.com/yourusername"
+    validations:
+      required: true
+
+  - type: input
+    id: device_tree
+    attributes:
+      label: "🗂 Device Tree Source"
+      description: "Provide a public link to your device tree source."
+      placeholder: "https://github.com/yourusername/device_xxx"
+    validations:
+      required: true
+
+  - type: input
+    id: kernel_source
+    attributes:
+      label: "📁 Kernel Source"
+      description: "Provide a public link to your kernel source."
+      placeholder: "https://github.com/yourusername/kernel_xxx"
+    validations:
+      required: true
+
+  - type: input
+    id: vendor_source
+    attributes:
+      label: "📦 Vendor Source"
+      description: "Provide a public link to your vendor source."
+      placeholder: "https://github.com/yourusername/vendor_xxx"
+    validations:
+      required: true
+
+  - type: textarea
+    id: experience
+    attributes:
+      label: "📝 Experience & Contributions"
+      description: |
+        Describe your experience in ROM development, previous projects, and contributions to the community.  
+        - Mention ROMs you've built.  
+        - Contributions to device trees, kernel fixes, etc.  
+        - Why do you want to be an AxionOS maintainer?
+      placeholder: "E.g., Built XXX ROM for xxx, fixed VoLTE issues, merged CAF changes..."
+    validations:
+      required: true
+
+  - type: input
+    id: screenshots
+    attributes:
+      label: "📷 Build Proof (Screenshots)"
+      description: "Provide a link to screenshots verifying that your build works."
+      placeholder: "https://imgur.com/xxxxx"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: "⚠️ Agreement"
+      description: "By submitting this application, you agree to the following:"
+      options:
+        - label: "I understand that the only benefit of official maintainership is the ability to post my builds to the official channel, and I accept this."
+          required: true
+        - label: "I understand the responsibilities of being a maintainer and will provide timely updates."
+          required: true
+        - label: "I will follow the official guidelines for ROM development and ensure my sources are properly maintained."
+          required: true
+        - label: "I am aware that failure to maintain my device may result in my removal as a maintainer."
+          required: true
+        - label: "I confirm that I have tested my build, and it boots without major issues."
+          required: true
+
