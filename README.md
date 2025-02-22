@@ -15,7 +15,9 @@
 | **Google Pixel 9 Pro**     | `caiman`     |
 | **Google Pixel 9 Pro XL**  | `komodo`     |
 | **Poco X6 Pro 5G**         | `duchamp`    |
+| **Redmi K60 Pro**          | `socrates`   |
 
 ## 👤 Maintainers  
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-9 series - Open for Co-Maintainership)
-- **[zenin1504](https://github.com/zenin1504)** (Poco X6 Pro 5G )
+- **[zenin1504](https://github.com/zenin1504)** (Poco X6 Pro 5G)
+- **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro)
