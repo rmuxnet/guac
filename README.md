@@ -17,9 +17,11 @@
 | **Poco X6 Pro 5G**         | `duchamp`    |
 | **Redmi K60 Pro**          | `socrates`   |
 | **Xiaomi Pad 6**           | `pipa`       |
+| **POCO F1**                | `beryllium`  |
 
 ## 👤 Maintainers  
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-9 series - Open for Co-Maintainership)
 - **[zenin1504](https://github.com/zenin1504)** (Poco X6 Pro 5G)
 - **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro)
 - **[ai94iq](https://github.com/ai94iq)** (Xiaomi Pad 6)
+- **[Rve](https://github.com/Rve27)** (POCO F1)
