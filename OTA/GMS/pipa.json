@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1740277133,
+            "datetime": 1740297958,
             "filename": "axion-1.1-20250223-OFFICIAL-GMS-pipa.zip",
-            "id": "cb2a3ce9fa1d33295d55f3b8434cf673",
+            "id": "75ea873ca1ac6900ae8754dc29702c8d",
             "romtype": "OFFICIAL",
-            "size": 1346048592,
+            "size": 1679693518,
             "url": "https://github.com/ai94iq/axion-pipa-releases/releases/download/axion-1.1-20250223-OFFICIAL/axion-1.1-20250223-OFFICIAL-GMS-pipa.zip",
             "version": "1.1"
         }
