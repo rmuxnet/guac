@@ -22,6 +22,7 @@
 | **POCO F6**                | `peridot`    |
 | **TECNO POVA 4**           | `LG8n`       |
 | **POCO X3 PRO**            | `vayu`       |
+| **Galaxy A71 4G**            | `a71`       |
 
 
 ## 👤 Maintainers  
@@ -33,3 +34,4 @@
 - **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 and POVA 4 Pro)
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
 - **[Ste](https://github.com/kuroringo90)** (POCO X3 PRO)
+- **[rmux](https://github.com/rmuxnet)** (Galaxy A71 4G)
