@@ -20,6 +20,7 @@
 | **POCO F1**                | `beryllium`  |
 | **TECNO POVA 4 Pro**       | `LG8n`       |
 | **POCO F6**                | `peridot`    |
+| **TECNO POVA 4**       | `LG8n`       |
 
 ## 👤 Maintainers  
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-9 series - Open for Co-Maintainership)
@@ -27,5 +28,5 @@
 - **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro)
 - **[ai94iq](https://github.com/ai94iq)** (Xiaomi Pad 6)
 - **[Rve](https://github.com/Rve27)** (POCO F1)
-- **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 Pro)
+- **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 and POVA 4 Pro)
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
