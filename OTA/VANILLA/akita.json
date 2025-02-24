@@ -1,14 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1739577600,
-            "filename": "AxionOS-1.1-COMMUNITY-device.zip",
-            "id": "dc3c7940b3d352beea447bb6641d659f7855b7013702bbfe55e9ece552c59d07",
-            "romtype": "COMMUNITY",
-            "size": 1268809789,
-            "url": "https://sourceforge.net/projects/axionaosp/AxionOS-1.1-COMMUNITY-device.zip/download",
+            "datetime": 1740396193,
+            "filename": "axion-1.1-20250224-OFFICIAL-VANILLA-akita.zip",
+            "id": "aa0e6da9c4109d1ab19028d27945cc73",
+            "romtype": "OFFICIAL",
+            "size": 1377315947,
+            "url": "",
             "version": "1.1"
         }
     ]
 }
-
