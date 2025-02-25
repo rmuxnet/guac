@@ -15,6 +15,7 @@
 | **Google Pixel 9 Pro**     | `caiman`     |
 | **Google Pixel 9 Pro XL**  | `komodo`     |
 | **Galaxy A71 4G**          | `a71`        |
+| **Motorola G54**           | `cancunf`    |
 | **POCO F1**                | `beryllium`  |
 | **POCO F3/Mi 11X**         | `alioth`     |
 | **POCO F6**                | `peridot`    |
@@ -30,6 +31,7 @@
 ## 👤 Maintainers  
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-9 series - Open for Co-Maintainership)
 - **[rmux](https://github.com/rmuxnet)** (Galaxy A71 4G)
+- **[Ayan](https://github.com/not-ayan)** (Motorola G54)
 - **[Rve](https://github.com/Rve27)** (POCO F1)
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
 - **[Ste](https://github.com/kuroringo90)** (POCO X3 PRO)
