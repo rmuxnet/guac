@@ -23,12 +23,13 @@
 | **TECNO POVA 4**           | `LG8n`       |
 | **POCO X3 PRO**            | `vayu`       |
 | **Galaxy A71 4G**            | `a71`       |
-
+| **Redmi Note 10 Pro**      | `sweet`      |
+| **POCO F3/Mi 11X**         | `alioth`     |
 
 ## 👤 Maintainers  
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-9 series - Open for Co-Maintainership)
 - **[zenin1504](https://github.com/zenin1504)** (Poco X6 Pro 5G)
-- **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro)
+- **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro, Redmi Note 10 Pro, POCO F3/Mi 11X)
 - **[ai94iq](https://github.com/ai94iq)** (Xiaomi Pad 6)
 - **[Rve](https://github.com/Rve27)** (POCO F1)
 - **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 and POVA 4 Pro)
