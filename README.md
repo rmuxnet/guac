@@ -14,25 +14,30 @@
 | **Google Pixel 9**         | `tokay`      |
 | **Google Pixel 9 Pro**     | `caiman`     |
 | **Google Pixel 9 Pro XL**  | `komodo`     |
-| **Poco X6 Pro 5G**         | `duchamp`    |
-| **Redmi K60 Pro**          | `socrates`   |
-| **Xiaomi Pad 6**           | `pipa`       |
+| **Galaxy A71 4G**          | `a71`        |
+| **Motorola G54**           | `cancunf`    |
 | **POCO F1**                | `beryllium`  |
-| **TECNO POVA 4 Pro**       | `LG8n`       |
-| **POCO F6**                | `peridot`    |
-| **TECNO POVA 4**           | `LG8n`       |
-| **POCO X3 PRO**            | `vayu`       |
-| **Galaxy A71 4G**            | `a71`       |
-| **Redmi Note 10 Pro**      | `sweet`      |
 | **POCO F3/Mi 11X**         | `alioth`     |
+| **POCO F6**                | `peridot`    |
+| **POCO X3 PRO**            | `vayu`       |
+| **POCO X6 Pro 5G**         | `duchamp`    |
+| **Redmi Note 8 Pro**       | `begonia`    |
+| **Redmi Note 10 Pro**      | `sweet`      |
+| **Redmi K60 Pro**          | `socrates`   |
+| **TECNO POVA 4 Pro**       | `LG8n`       |
+| **TECNO POVA 4**           | `LG8n`       |
+| **Xiaomi Pad 6**           | `pipa`       |
 
 ## 👤 Maintainers  
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-9 series - Open for Co-Maintainership)
-- **[zenin1504](https://github.com/zenin1504)** (Poco X6 Pro 5G)
-- **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro, Redmi Note 10 Pro, POCO F3/Mi 11X)
-- **[ai94iq](https://github.com/ai94iq)** (Xiaomi Pad 6)
+- **[rmux](https://github.com/rmuxnet)** (Galaxy A71 4G)
+- **[Ayan](https://github.com/not-ayan)** (Motorola G54)
 - **[Rve](https://github.com/Rve27)** (POCO F1)
-- **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 and POVA 4 Pro)
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
 - **[Ste](https://github.com/kuroringo90)** (POCO X3 PRO)
-- **[rmux](https://github.com/rmuxnet)** (Galaxy A71 4G)
+- **[zenin1504](https://github.com/zenin1504)** (POCO X6 PRO 5G)
+- **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro)
+- **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro, Redmi Note 10 Pro, POCO F3/Mi 11X)
+- **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 and POVA 4 Pro)
+- **[ai94iq](https://github.com/ai94iq)** (Xiaomi Pad 6)
+
