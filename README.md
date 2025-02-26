@@ -25,7 +25,7 @@
 | **Redmi Note 10 Pro**      | `sweet`      |
 | **Redmi K60 Pro**          | `socrates`   |
 | **TECNO POVA 4 Pro**       | `LG8n`       |
-| **TECNO POVA 4**           | `LG8n`       |
+| **TECNO POVA 4**           | `LG7n`       |
 | **Xiaomi Pad 6**           | `pipa`       |
 
 ## 👤 Maintainers  
