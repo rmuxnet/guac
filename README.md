@@ -20,8 +20,11 @@
 | **POCO F3/Mi 11X**         | `alioth`     |
 | **POCO F6**                | `peridot`    |
 | **POCO X3 PRO**            | `vayu`       |
+| **POCO X4 PRO 5G**         | `veux`       |
 | **POCO X6 Pro 5G**         | `duchamp`    |
 | **Redmi Note 8 Pro**       | `begonia`    |
+| **Redmi Note 11E Pro**     | `veux`       |
+| **Redmi Note 11  Pro 5G**  | `veux`       |
 | **Redmi Note 10 Pro**      | `sweet`      |
 | **Redmi K60 Pro**          | `socrates`   |
 | **TECNO POVA 4 Pro**       | `LG8n`       |
@@ -40,4 +43,4 @@
 - **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro, Redmi Note 10 Pro, POCO F3/Mi 11X)
 - **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 and POVA 4 Pro)
 - **[ai94iq](https://github.com/ai94iq)** (Xiaomi Pad 6)
-
+- **[amritokun](https://github.com/amritokun)** (Redmi Note 11E Pro, Redmi Note 11 Pro 5G, POCO X4 Pro 5G )
