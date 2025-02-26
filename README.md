@@ -19,6 +19,7 @@
 | **POCO F1**                | `beryllium`  |
 | **POCO F3/Mi 11X**         | `alioth`     |
 | **POCO F6**                | `peridot`    |
+| **POCO F6 PRO**            | `vermeer`    |
 | **POCO X3 PRO**            | `vayu`       |
 | **POCO X4 PRO 5G**         | `veux`       |
 | **POCO X6 Pro 5G**         | `duchamp`    |
@@ -37,6 +38,7 @@
 - **[Ayan](https://github.com/not-ayan)** (Motorola G54)
 - **[Rve](https://github.com/Rve27)** (POCO F1)
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
+- **[Lunark](https://github.com/ByteWave1014)** (POCO F6 PRO)
 - **[Ste](https://github.com/kuroringo90)** (POCO X3 PRO)
 - **[zenin1504](https://github.com/zenin1504)** (POCO X6 PRO 5G)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro)
