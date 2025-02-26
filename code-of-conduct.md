@@ -11,6 +11,7 @@ As a maintainer or team member of AxionOS, you represent the project and play a 
 - Maintain your assigned devices and ensure timely updates.
 - Inform the team if you are unable to maintain your device or need assistance.
 - Thoroughly test all builds and ensure they are cleanly compiled before release to minimize issues and maintain stability.
+- Maintain only 1-3 projects in total, including AxionOS, to ensure quality and focus.
 
 ## 3. Transparency & Collaboration
 - Share progress, findings, and improvements with the team.
