@@ -18,6 +18,7 @@
 | **Motorola G54**           | `cancunf`    |
 | **POCO F1**                | `beryllium`  |
 | **POCO F3/Mi 11X**         | `alioth`     |
+| **POCO F5**                | `marble`     |
 | **POCO F6**                | `peridot`    |
 | **POCO F6 PRO**            | `vermeer`    |
 | **POCO X3 PRO**            | `vayu`       |
@@ -37,6 +38,7 @@
 - **[rmux](https://github.com/rmuxnet)** (Galaxy A71 4G)
 - **[Ayan](https://github.com/not-ayan)** (Motorola G54)
 - **[Rve](https://github.com/Rve27)** (POCO F1)
+- **[Pabloescobar](https://github.com/pabloescobar-reborn)** (POCO F5)
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
 - **[Lunark](https://github.com/ByteWave1014)** (POCO F6 PRO)
 - **[Ste](https://github.com/kuroringo90)** (POCO X3 PRO)
