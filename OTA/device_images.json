@@ -111,6 +111,10 @@
     {
       "codename": "pipa",
       "imageUrl": "https://wiki.lineageos.org/images/devices/tokay.png"
+    },
+    {
+      "codename": "r5x",
+      "imageUrl": "https://fdn2.gsmarena.com/vv/pics/realme/realme-5-rmx1911-2.jpg"
     }
   ]
 }

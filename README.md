@@ -24,6 +24,7 @@
 | **POCO X3 PRO**            | `vayu`       |
 | **POCO X4 PRO 5G**         | `veux`       |
 | **POCO X6 Pro 5G**         | `duchamp`    |
+| **Realme 5 series**        | `r5x`        |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro**      | `sweet`      |
 | **Redmi Note 11E Pro**     | `veux`       |
@@ -42,6 +43,7 @@
 - **[Lunark](https://github.com/ByteWave1014)** (POCO F6 PRO)
 - **[Ste](https://github.com/kuroringo90)** (POCO X3 PRO)
 - **[zenin1504](https://github.com/zenin1504)** (POCO X6 PRO 5G)
+- **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro)
 - **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro, Redmi Note 10 Pro, POCO F3/Mi 11X)
 - **[amritokun](https://github.com/amritokun)** (Redmi Note 11E Pro, Redmi Note 11 Pro 5G, POCO X4 Pro 5G )
