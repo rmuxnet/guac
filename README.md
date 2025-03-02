@@ -27,8 +27,7 @@
 | **Realme 5 series**        | `r5x`        |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro**      | `sweet`      |
-| **Redmi Note 11E Pro**     | `veux`       |
-| **Redmi Note 11  Pro 5G**  | `veux`       |
+| **Redmi Note 11 Pro Series**     | `veux`       |
 | **Redmi K60 Pro**          | `socrates`   |
 | **TECNO POVA 4 Pro**       | `LG8n`       |
 | **TECNO POVA 4**           | `LG7n`       |
