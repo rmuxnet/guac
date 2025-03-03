@@ -1,12 +1,12 @@
 {
-    "response": [
+   "response": [
         {
-            "datetime": 1740492626,
-            "filename": "axion-1.1-20250225-OFFICIAL-GMS-a71.zip",
-            "id": "d7ae2416ebb3bb95d34cf7aeb6dde3c5",
+            "datetime": 1741017477,
+            "filename": "axion-1.1-20250303-OFFICIAL-GMS-a71.zip",
+            "id": "44b5040a8bc150e70218797667c973bb",
             "romtype": "OFFICIAL",
-            "size": 1667774916,
-            "url": "https://github.com/rmuxnet/Axion-A71/releases/download/1.1/axion-1.1-20250225-OFFICIAL-GMS-a71.zip",
+            "size": 1686235692,
+            "url": "https://github.com/rmuxnet/Axion-A71/releases/download/1.1/axion-1.1-20250303-OFFICIAL-GMS-a71.zip",
             "version": "1.1"
         }
     ]
