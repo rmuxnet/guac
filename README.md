@@ -31,6 +31,7 @@
 | **Redmi K60 Pro**          | `socrates`   |
 | **TECNO POVA 4 Pro**       | `LG8n`       |
 | **TECNO POVA 4**           | `LG7n`       |
+| **Xiaomi Pad 6**           | `pipa`       |
 
 ## 👤 Maintainers  
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-9 series - Open for Co-Maintainership)
@@ -40,9 +41,10 @@
 - **[Pabloescobar](https://github.com/pabloescobar-reborn)** (POCO F5)
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
 - **[Lunark](https://github.com/ByteWave1014)** (POCO F6 PRO)
-- **[Ste](https://github.com/kuroringo90)** (POCO X3 PRO)
+- **[Ste](https://github.com/kuroringo90)** (POCO X3 PRO, Xiaomi Pad 6)
 - **[zenin1504](https://github.com/zenin1504)** (POCO X6 PRO 5G)
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x)
+- **[XXBADRGXX](https://github.com/XXBADRGXX)** (Xiaomi Pad 6)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro)
 - **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro, Redmi Note 10 Pro, POCO F3/Mi 11X)
 - **[amritokun](https://github.com/amritokun)** (Redmi Note 11E Pro, Redmi Note 11 Pro 5G, POCO X4 Pro 5G )
