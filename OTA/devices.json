@@ -2,62 +2,62 @@
   "oriole": {
     "device_name": "Google Pixel 6",
     "maintainer": "rmp22",
-    "support_group": "https://t.me/oriole_support"
+    "support_group": "https://t.me/AxionAOSP_PixelsSupport"
   },
   "bluejay": {
     "device_name": "Google Pixel 6a",
     "maintainer": "rmp22",
-    "support_group": "https://t.me/bluejay_support"
+    "support_group": "https://t.me/AxionAOSP_PixelsSupport"
   },
   "raven": {
     "device_name": "Google Pixel 6 Pro",
     "maintainer": "rmp22",
-    "support_group": "https://t.me/raven_support"
+    "support_group": "https://t.me/AxionAOSP_PixelsSupport"
   },
   "lynx": {
     "device_name": "Google Pixel 7a",
     "maintainer": "rmp22",
-    "support_group": "https://t.me/lynx_support"
+    "support_group": "https://t.me/AxionAOSP_PixelsSupport"
   },
   "panther": {
     "device_name": "Google Pixel 7",
     "maintainer": "rmp22",
-    "support_group": "https://t.me/panther_support"
+    "support_group": "https://t.me/AxionAOSP_PixelsSupport"
   },
   "cheetah": {
     "device_name": "Google Pixel 7 Pro",
     "maintainer": "rmp22",
-    "support_group": "https://t.me/cheetah_support"
+    "support_group": "https://t.me/AxionAOSP_PixelsSupport"
   },
   "akita": {
     "device_name": "Google Pixel 8a",
     "maintainer": "rmp22",
-    "support_group": "https://t.me/akita_support"
+    "support_group": "https://t.me/AxionAOSP_PixelsSupport"
   },
   "shiba": {
     "device_name": "Google Pixel 8",
     "maintainer": "rmp22",
-    "support_group": "https://t.me/shiba_support"
+    "support_group": "https://t.me/AxionAOSP_PixelsSupport"
   },
   "husky": {
     "device_name": "Google Pixel 8 Pro",
     "maintainer": "rmp22",
-    "support_group": "https://t.me/husky_support"
+    "support_group": "https://t.me/AxionAOSP_PixelsSupport"
   },
   "tokay": {
     "device_name": "Google Pixel 9",
-    "maintainer": "rmp22",
-    "support_group": "https://t.me/tokay_support"
+    "maintainer": "manid_reddy",
+    "support_group": "https://t.me/AxionAOSP_PixelsSupport"
   },
   "caiman": {
     "device_name": "Google Pixel 9 Pro",
-    "maintainer": "rmp22",
-    "support_group": "https://t.me/caiman_support"
+    "maintainer": "manid_reddy",
+    "support_group": "https://t.me/AxionAOSP_PixelsSupport"
   },
   "komodo": {
     "device_name": "Google Pixel 9 Pro XL",
-    "maintainer": "rmp22",
-    "support_group": "https://t.me/komodo_support"
+    "maintainer": "manid_reddy",
+    "support_group": "https://t.me/AxionAOSP_PixelsSupport"
   },
   "a71": {
     "device_name": "Galaxy A71 4G",
