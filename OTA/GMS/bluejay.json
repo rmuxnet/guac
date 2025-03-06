@@ -1,14 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1739577600,
-            "filename": "AxionOS-1.1-COMMUNITY-device.zip",
-            "id": "dc3c7940b3d352beea447bb6641d659f7855b7013702bbfe55e9ece552c59d07",
-            "romtype": "COMMUNITY",
-            "size": 1268809789,
-            "url": "https://sourceforge.net/projects/axionaosp/AxionOS-1.1-COMMUNITY-device.zip/download",
+            "datetime": 1741227870,
+            "filename": "axion-1.1-20250306-OFFICIAL-GMS-bluejay.zip",
+            "id": "ac84b0dc47230e2e865731fc0b888f8c",
+            "romtype": "OFFICIAL",
+            "size": 1795777604,
+            "url": "https://www.pling.com/p/2259442/",
             "version": "1.1"
         }
     ]
 }
-
