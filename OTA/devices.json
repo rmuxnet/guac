@@ -148,5 +148,10 @@
     "device_name": "Xiaomi Pad 6",
     "maintainer": "Ste",
     "support_group": "https://t.me/pipa_support"
+  },
+  "surya": {
+    "device_name": "Poco X3 NFC",
+    "maintainer": "Skyy丨アラタ",
+    "support_group": "https://t.me/ArataXDummy"
   }
 }

@@ -21,6 +21,7 @@
 | **POCO F5**                | `marble`     |
 | **POCO F6**                | `peridot`    |
 | **POCO F6 PRO**            | `vermeer`    |
+| **Poco X3 NFC**            | `surya`      |
 | **POCO X3 PRO**            | `vayu`       |
 | **POCO X4 PRO 5G**         | `veux`       |
 | **POCO X6 Pro 5G**         | `duchamp`    |
@@ -43,6 +44,7 @@
 - **[Pabloescobar](https://github.com/pabloescobar-reborn)** (POCO F5)
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
 - **[Lunark](https://github.com/ByteWave1014)** (POCO F6 PRO)
+- **[Skyy丨アラタ](https://github.com/HinohArata)** (Poco X3 NFC)
 - **[Ste](https://github.com/kuroringo90)** (POCO X3 PRO, Xiaomi Pad 6)
 - **[zenin1504](https://github.com/zenin1504)** (POCO X6 PRO 5G)
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x)
