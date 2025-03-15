@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1741224853,
-            "filename": "axion-1.1-20250306-OFFICIAL-GMS-lynx.zip",
-            "id": "524e9ab32e5f9befd06079390b198fad",
+            "datetime": 1742017415,
+            "filename": "axion-1.2-20250315-OFFICIAL-GMS-lynx.zip",
+            "id": "602f390dd76d70c1eb9315926fd35fdb",
             "romtype": "OFFICIAL",
-            "size": 1937131952,
+            "size": 1932133418,
             "url": "https://www.pling.com/p/2259442/",
-            "version": "1.1"
+            "version": "1.2"
         }
     ]
 }
