@@ -67,7 +67,7 @@
   "cancunf": {
     "device_name": "Motorola G54",
     "maintainer": "Ayan",
-    "support_group": "https://t.me/cancunf_support"
+    "support_group": "https://t.me/ayanot69"
   },
   "instantnoodle": {
     "device_name": "Oneplus 8",
@@ -92,17 +92,17 @@
   "beryllium": {
     "device_name": "POCO F1",
     "maintainer": "Rve",
-    "support_group": "https://t.me/beryllium_support"
+    "support_group": "https://t.me/rvosuniverse"
   },
   "alioth": {
     "device_name": "POCO F3/Mi 11X",
     "maintainer": "donjohanliebert",
-    "support_group": "https://t.me/alioth_support"
+    "support_group": "https://t.me/donjohanliebert_sg"
   },
   "marble": {
     "device_name": "POCO F5",
     "maintainer": "Pabloescobar",
-    "support_group": "https://t.me/marble_support"
+    "support_group": "https://t.me/pablo_laboratory"
   },
   "peridot": {
     "device_name": "POCO F6",
@@ -112,17 +112,17 @@
   "vermeer": {
     "device_name": "POCO F6 PRO",
     "maintainer": "Lunark",
-    "support_group": "https://t.me/vermeer_support"
+    "support_group": "https://t.me/PocoF6ProSupport"
   },
   "vayu": {
     "device_name": "POCO X3 PRO",
     "maintainer": "Ste",
-    "support_group": "https://t.me/vayu_support"
+    "support_group": "https://t.me/PerryTheKernelChat"
   },
   "veux": {
     "device_name": "POCO X4 PRO 5G",
     "maintainer": "amritokun",
-    "support_group": "https://t.me/veux_support"
+    "support_group": "https://t.me/veuxplayground"
   },
   "duchamp": {
     "device_name": "POCO X6 Pro 5G",
@@ -132,27 +132,27 @@
   "r5x": {
     "device_name": "Realme 5 series",
     "maintainer": "Amritorock",
-    "support_group": "https://t.me/r5x_support"
+    "support_group": "https://t.me/Realme5Dev"
   },
   "bitra": {
     "device_name": "Realme GT Neo 2",
     "maintainer": "XXBADRGXX",
-    "support_group": "https://t.me/bitra_support"
+    "support_group": "https://t.me/zoroprojects"
   },
   "begonia": {
     "device_name": "Redmi Note 8 Pro",
     "maintainer": "Saikrishna",
-    "support_group": "https://t.me/begonia_support"
+    "support_group": "https://t.me/sai26918"
   },
   "sweet": {
     "device_name": "Redmi Note 10 Pro",
     "maintainer": "donjohanliebert",
-    "support_group": "https://t.me/sweet_support"
+    "support_group": "https://t.me/donjohanliebert_sg"
   },
   "socrates": {
     "device_name": "Redmi K60 Pro",
     "maintainer": "donjohanliebert",
-    "support_group": "https://t.me/socrates_support"
+    "support_group": "https://t.me/donjohanliebert_sg"
   },
   "LG8n": {
     "device_name": "TECNO POVA 4 Pro",
@@ -166,12 +166,17 @@
   },
   "pipa": {
     "device_name": "Xiaomi Pad 6",
-    "maintainer": "Ste",
-    "support_group": "https://t.me/pipa_support"
+    "maintainer": "Ste && Badr98t",
+    "support_group": "https://t.me/zoroprojects"
   },
   "surya": {
     "device_name": "Poco X3 NFC",
     "maintainer": "Skyy丨アラタ",
     "support_group": "https://t.me/ArataXDummy"
+  },
+  "spartan": {
+    "device_name": "Realme GT Neo 3T",
+    "maintainer": "Ryuk",
+    "support_group": "https://t.me/ryukftw9"
   }
 }
