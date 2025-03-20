@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1742028498,
-            "filename": "axion-1.2-20250315-OFFICIAL-GMS-akita.zip",
-            "id": "96af23e591e94f1874d0deeb54fbc5e5",
+            "datetime": 1742480543,
+            "filename": "axion-1.2-BETA-20250320-OFFICIAL-GMS-akita.zip",
+            "id": "2e4ebb49dc1fec290791acefc830dc9b",
             "romtype": "OFFICIAL",
-            "size": 1785049291,
+            "size": 1823986549,
             "url": "https://www.pling.com/p/2259442/",
             "version": "1.2"
         }

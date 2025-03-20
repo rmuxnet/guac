@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1742028498,
-            "filename": "axion-1.2-20250315-OFFICIAL-GMS-husky.zip",
-            "id": "eb39b3b31ef72590c9a4818df2025f2b",
+            "datetime": 1742476370,
+            "filename": "axion-1.2-BETA-20250320-OFFICIAL-GMS-husky.zip",
+            "id": "74f246b2fed04fb9c5cb5a218f32057f",
             "romtype": "OFFICIAL",
-            "size": 1831321538,
+            "size": 1841382561,
             "url": "https://www.pling.com/p/2259442/",
             "version": "1.2"
         }

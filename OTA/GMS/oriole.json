@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1742035594,
-            "filename": "axion-1.2-20250315-OFFICIAL-GMS-oriole.zip",
-            "id": "9524d3bf2fb1beb5545877a68ac2e05b",
+            "datetime": 1742470037,
+            "filename": "axion-1.2-BETA-20250320-OFFICIAL-GMS-oriole.zip",
+            "id": "d143037918c64b712f4d9f3ced9c279d",
             "romtype": "OFFICIAL",
-            "size": 1777941246,
+            "size": 1809366775,
             "url": "https://www.pling.com/p/2259442/",
             "version": "1.2"
         }

@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1742014652,
-            "filename": "axion-1.2-20250315-OFFICIAL-GMS-cheetah.zip",
-            "id": "13eb857646b4fc020b6ef68fe5fa84ac",
+            "datetime": 1742455264,
+            "filename": "axion-1.2-BETA-20250320-OFFICIAL-GMS-cheetah.zip",
+            "id": "a8a9cda250b3df8bda8a1a65c0450b49",
             "romtype": "OFFICIAL",
-            "size": 1935733744,
+            "size": 1967189972,
             "url": "https://www.pling.com/p/2259442/",
             "version": "1.2"
         }
