@@ -22,6 +22,7 @@
 | **Oneplus 9R**             | `lemonades`  |
 | **POCO F1**                | `beryllium`  |
 | **POCO F3/Mi 11X/Redmi K40**         | `alioth`     |
+| **POCO F4/Redmi K40S**     | `munch`     |
 | **POCO F5**                | `marble`     |
 | **POCO F6**                | `peridot`    |
 | **POCO F6 PRO**            | `vermeer`    |
@@ -57,6 +58,7 @@
 - **[Ryuk](https://github.com/ryukftw)** (Realme GT Neo 3T)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro)
 - **[ꜱᴀɴᴊɪ | サンジ](https://github.com/Sanjivns)** (POCO F3/Mi 11X/Redmi K40)
+- **[masarou](https://github.com/masarou92)** (Redmi K40S/POCO F4)
 - **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro, Redmi Note 10 Pro)
 - **[amritokun](https://github.com/amritokun)** (Redmi Note 11E Pro, Redmi Note 11 Pro 5G, POCO X4 Pro 5G )
 - **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 and POVA 4 Pro)
