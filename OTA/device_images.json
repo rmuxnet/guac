@@ -139,6 +139,10 @@
     {
       "codename": "lemonades",
       "imageUrl": "https://wiki.lineageos.org/images/devices/lemonades.png"
+    },
+    {
+      "codename": "munch",
+      "imageUrl": "https://wiki.lineageos.org/images/devices/munch.png"
     }
   ]
 }
