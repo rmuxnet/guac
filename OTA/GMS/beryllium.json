@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1742233604,
-            "filename": "axion-1.2-20250317-OFFICIAL-GMS-beryllium.zip",
-            "id": "76950ef4a3e580c4ecdb9f03cd965d34",
+            "datetime": 1742823739,
+            "filename": "axion-1.2-BETA-20250324-OFFICIAL-GMS-beryllium.zip",
+            "id": "17d02975abaf367b2cbf34ab438a515d",
             "romtype": "OFFICIAL",
-            "size": 1680468050,
-            "url": "https://sourceforge.net/projects/rve-rom/files/AxionAOSP/axion-1.2-20250317-OFFICIAL-GMS-beryllium.zip/download",
+            "size": 1726253584,
+            "url": "https://sourceforge.net/projects/rve-rom/files/AxionAOSP/axion-1.2-BETA-20250324-OFFICIAL-GMS-beryllium.zip/download",
             "version": "1.2"
         }
     ]

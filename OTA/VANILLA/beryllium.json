@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1742222686,
-            "filename": "axion-1.2-20250317-OFFICIAL-VANILLA-beryllium.zip",
-            "id": "abc9e88c51caf6a811847da175f5b819",
+            "datetime": 1742843924,
+            "filename": "axion-1.2-BETA-20250324-OFFICIAL-VANILLA-beryllium.zip",
+            "id": "a3f49906ffe0a396456cc2e50eb75344",
             "romtype": "OFFICIAL",
-            "size": 1324842910,
-            "url": "https://sourceforge.net/projects/rve-rom/files/AxionAOSP/axion-1.2-20250317-OFFICIAL-VANILLA-beryllium.zip/download",
+            "size": 1368347562,
+            "url": "https://sourceforge.net/projects/rve-rom/files/AxionAOSP/axion-1.2-BETA-20250324-OFFICIAL-VANILLA-beryllium.zip/download",
             "version": "1.2"
         }
     ]
