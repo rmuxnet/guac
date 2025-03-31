@@ -28,11 +28,9 @@
 | **POCO F6**                | `peridot`    |
 | **POCO F6 PRO**            | `vermeer`    |
 | **POCO X3 NFC**            | `surya`      |
-| **POCO X3 PRO**            | `vayu`       |
 | **POCO X4 PRO 5G**         | `veux`       |
 | **POCO X6 Pro 5G**         | `duchamp`    |
 | **Realme 5 series**        | `r5x`        |
-| **Realme GT Neo 2**        | `bitra`      |
 | **Realme GT Neo 3T**       | `spartan`    |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro**      | `sweet`      |
@@ -52,10 +50,8 @@
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
 - **[Lunark](https://github.com/ByteWave1014)** (POCO F6 PRO)
 - **[Skyy丨アラタ](https://github.com/HinohArata)** (POCO X3 NFC)
-- **[Ste](https://github.com/kuroringo90)** (POCO X3 PRO)
 - **[zenin1504](https://github.com/zenin1504)** (POCO X6 PRO 5G)
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x)
-- **[XXBADRGXX](https://github.com/XXBADRGXX)** (Realme GT Neo 2)
 - **[Ryuk](https://github.com/ryukftw)** (Realme GT Neo 3T)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro)
 - **[ꜱᴀɴᴊɪ | サンジ](https://github.com/Sanjivns)** (POCO F3/Mi 11X/Redmi K40)
