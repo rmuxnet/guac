@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1743346012,
-            "filename": "axion-1.2-BETA-20250330-OFFICIAL-VANILLA-pipa.zip",
-            "id": "512de8721375ffffa04acdbe173ba030",
+            "datetime": 1743410061,
+            "filename": "axion-1.2-BETA-20250331-OFFICIAL-VANILLA-pipa.zip",
+            "id": "55ddf62267724a77f345d2412c909579",
             "romtype": "OFFICIAL",
-            "size": 1345745669,
-            "url": "https://github.com/ai94iq/axion-pipa-releases/releases/download/axion-1.2-BETA-20250330/axion-1.2-BETA-20250330-OFFICIAL-VANILLA-pipa.zip",
+            "size": 1462938508,
+            "url": "https://github.com/ai94iq/axion-pipa-releases/releases/download/axion-1.2-BETA-20250331/axion-1.2-BETA-20250331-OFFICIAL-VANILLA-pipa.zip",
             "version": "1.2"
         }
     ]
