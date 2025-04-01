@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1740541356,
-            "filename": "axion-1.1-20250226-OFFICIAL-GMS-begonia.zip",
-            "id": "d02a66f4c2fbc7ab58dabb29810f6da8",
+            "datetime": 1743510535,
+            "filename": "axion-1.2-BETA-20250401-OFFICIAL-GMS-begonia.zip",
+            "id": "4b6bd36f2d8b0007f22db460c2581d21",
             "romtype": "OFFICIAL",
-            "size": 1995236765,
-            "url": "https://github.com/Saikrishna1504/OTA/releases/download/axionos/axion-1.1-20250226-OFFICIAL-GMS-begonia.zip",
-            "version": "1.1"
+            "size": 2053796012,
+            "url": "https://github.com/Saikrishna1504/OTA/releases/download/axionos_v1.2/axion-1.2-BETA-20250401-OFFICIAL-GMS-begonia.zip",
+            "version": "1.2"
         }
     ]
 }
