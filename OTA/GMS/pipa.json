@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1743483197,
-            "filename": "axion-1.2-BETA-20250401-OFFICIAL-GMS-pipa.zip",
-            "id": "904039000e25bebb00c1330db1082dd4",
+            "datetime": 1743657375,
+            "filename": "axion-1.2-BETA-20250403-OFFICIAL-GMS-pipa.zip",
+            "id": "d2856b63486ddb0a926a6cd01ee72b53",
             "romtype": "OFFICIAL",
-            "size": 1857603217,
-            "url": "https://github.com/ai94iq/axion-pipa-releases/releases/download/axion-1.2-BETA-20250401-v2/axion-1.2-BETA-20250401-OFFICIAL-GMS-pipa.zip",
+            "size": 1848682740,
+            "url": "https://github.com/ai94iq/axion-pipa-releases/releases/download/axion-1.2-BETA-20250403/axion-1.2-BETA-20250403-OFFICIAL-GMS-pipa.zip",
             "version": "1.2"
         }
     ]
