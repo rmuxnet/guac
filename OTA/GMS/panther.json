@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1742456864,
-            "filename": "axion-1.2-BETA-20250320-OFFICIAL-GMS-panther.zip",
-            "id": "3fa262350f0fcde576a02d3484a5074e",
+            "datetime": 1744375746,
+            "filename": "axion-1.3-BETA-20250411-OFFICIAL-GMS-panther.zip",
+            "id": "e184c0102c9d274eb87e15395b8b72ec",
             "romtype": "OFFICIAL",
-            "size": 1967151992,
+            "size": 1982922918,
             "url": "https://www.pling.com/p/2259442/",
-            "version": "1.2"
+            "version": "1.3"
         }
     ]
 }
