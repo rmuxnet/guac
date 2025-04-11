@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1742467861,
-            "filename": "axion-1.2-BETA-20250320-OFFICIAL-GMS-bluejay.zip",
-            "id": "1c189373962af03d833aec592342b97a",
+            "datetime": 1744413732,
+            "filename": "axion-1.3-BETA-20250411-OFFICIAL-GMS-bluejay.zip",
+            "id": "573467bea0460c265695e2f2a8db230f",
             "romtype": "OFFICIAL",
-            "size": 1809602333,
+            "size": 1826063674,
             "url": "https://www.pling.com/p/2259442/",
-            "version": "1.2"
+            "version": "1.3"
         }
     ]
 }
