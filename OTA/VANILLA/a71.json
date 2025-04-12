@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1743620624,
-            "filename": "axion-1.2-BETA-20250402-OFFICIAL-VANILLA-a71.zip",
-            "id": "0cb04dc9280a9afa6e16709ff1ec2a01",
+            "datetime": 1744401065,
+            "filename": "axion-1.3-BETA-20250411-OFFICIAL-VANILLA-a71.zip",
+            "id": "bb686f7d67e1b4cff782bf5fdfa4a883",
             "romtype": "OFFICIAL",
-            "size": 1287527018,
-            "url": "https://github.com/rmuxnet/Axion-A71/releases/download/1.1-1.2/axion-1.2-BETA-20250402-OFFICIAL-VANILLA-a71.zip",
-            "version": "1.2"
+            "size": 1286144708,
+            "url": "https://github.com/rmuxnet/Axion-A71/releases/download/1.1-1.2/axion-1.3-BETA-20250411-OFFICIAL-VANILLA-a71.zip",
+            "version": "1.3"
         }
     ]
 }
