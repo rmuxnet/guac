@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1742481744,
-            "filename": "axion-1.2-BETA-20250320-OFFICIAL-VANILLA-akita.zip",
-            "id": "44314eb5dc64b4f13730cc1e88b86a21",
+            "datetime": 1744423304,
+            "filename": "axion-1.3-BETA-20250412-OFFICIAL-VANILLA-akita.zip",
+            "id": "4f5aa3e3bde7380ba4b57de2bb064730",
             "romtype": "OFFICIAL",
-            "size": 1440156867,
+            "size": 1490810347,
             "url": "https://www.pling.com/p/2259442/",
-            "version": "1.2"
+            "version": "1.3"
         }
     ]
 }
