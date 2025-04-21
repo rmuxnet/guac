@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1744387566,
-            "filename": "axion-1.3-BETA-20250411-OFFICIAL-VANILLA-bluejay.zip",
-            "id": "02e2daa01cac40089f93dcc668991243",
+            "datetime": 1745169756,
+            "filename": "axion-1.3-NIGHTLY-20250420-OFFICIAL-VANILLA-bluejay.zip",
+            "id": "b795050eb82c96a4fe9729129b4cf0fd",
             "romtype": "OFFICIAL",
-            "size": 1441037472,
+            "size": 1440836458,
             "url": "https://www.pling.com/p/2259442/",
             "version": "1.3"
         }
