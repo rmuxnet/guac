@@ -31,7 +31,7 @@
 | **POCO X4 PRO 5G**         | `veux`       |
 | **POCO X6 Pro 5G**         | `duchamp`    |
 | **Realme 5 series**        | `r5x`        |
-| **Realme GT Neo 3T**       | `spartan`    |
+| **Realme GT Neo 3T**       | `RMX3371`    |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro**      | `sweet`      |
 | **Redmi Note 11 Pro Series**     | `veux`       |
