@@ -1,0 +1,7 @@
+AxionOS v1.3
+Build Date : 18/04/2025
+- Included Los apps
+- Optimized native executables
+- Imported audio policy volumes from AOSP
+- Enabled LTO and inline optimization
+- Many other Misc changes in kernel
