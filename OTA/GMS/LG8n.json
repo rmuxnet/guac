@@ -1,13 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": 1743768566,
-      "filename": "axion-1.2-BETA-20250404-OFFICIAL-GMS-LG8n.zip",
-      "id": "952bba01649e58e2d327857a6b433732",
-      "romtype": "OFFICIAL",
-      "size": 1925886407,
-      "url": "https://sourceforge.net/projects/axion-pova4series-releases/files/LG8n/1.2-BETA-20240404-LG8n/axion-1.2-BETA-20250404-OFFICIAL-GMS-LG8n.zip/download",
-      "version": "1.2"
-    }
-  ]
+    "response": [
+        {
+            "datetime": 1745846530,
+            "filename": "axion-1.3-NIGHTLY-20250428-OFFICIAL-GMS-LG8n.zip",
+            "id": "db56760959a7cfb81f320f79fdc85517",
+            "romtype": "OFFICIAL",
+            "size": 1921349157,
+            "url": "https://sourceforge.net/projects/axion-pova4series-releases/files/LG8n/1.3-NIGHTLY-20250428-LG8n/axion-1.3-NIGHTLY-20250428-OFFICIAL-GMS-LG8n.zip/download",
+            "version": "1.3"
+        }
+    ]
 }
